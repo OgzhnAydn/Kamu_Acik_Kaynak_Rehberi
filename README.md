@@ -1,4 +1,4 @@
-# Kamu Kurumları İçin Açık Kaynak Projeler
+# Kamu Kurumları için Açık Kaynak Projeler
 
 ## Yönetim ve İş Süreçleri
 
