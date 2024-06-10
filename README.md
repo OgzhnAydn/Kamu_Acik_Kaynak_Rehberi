@@ -36,7 +36,14 @@
 
 ## Sanallaştırma Ortamları
 
-[Henüz listelenmemiş]
+
+## Yönetim ve İş Süreçleri
+
+| Proje / Yazılım  | Açıklama                                      | Kullanım Alanları                                  | Puanlama   | Kaynak     |
+|------------------|-----------------------------------------------|----------------------------------------------------|------------|------------|
+|       |                         |          |  |  |
+|          |              |           | |  |
+
 
 ## Yönetim ve İş Süreçleri
 
