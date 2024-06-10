@@ -1,8 +1,6 @@
 # Kamu Kurumları için Açık Kaynak Projeler
 
 
-# Kamu için Açık Kaynak Alternatifleri
-
 ## Sunucu Sistemleri
 
 ### İşletim Sistemi
