@@ -16,12 +16,7 @@
 1. Kategorilerin ve Listenin oluşturulması
 1. Uyuglaması Mümkün olanlar için  uygulama örnekleri geliştirmek.
 4. Listeyi sürekli güncel tutumak ve yenilemek
----
 
-
-
-
-# Kamu Kurumları için Açık Kaynak Projeler
 # Kamu Kurumları için Açık Kaynak Projeler
 
 ## Sunucu Sistemleri
