@@ -21,10 +21,6 @@
 
 
 
-
-# Kamu Kurumları için Açık Kaynak Projeler
-
-
 # Kamu Kurumları için Açık Kaynak Projeler
 
 ## Sunucu Sistemleri
