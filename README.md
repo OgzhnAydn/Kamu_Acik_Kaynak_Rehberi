@@ -1,3 +1,27 @@
+[![License](https://img.shields.io/badge/license-AGPL-blue.svg?style=flat)](https://opensource.org/licenses/AGPL-3.0)
+[![Documentation](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat)](http://docs.chan.org)
+[![Support on StackOverflow](https://img.shields.io/badge/support-StackOverflow-yellowgreen.svg?style=flat)](https://stackoverflow.com/questions/tagged/ckan)
+[![Build Status](https://circleci.com/gh/ckan/ckan.svg?style=shield)](https://circleci.com/gh/ckan/ckan)
+[![Coverage Status](https://coveralls.io/repos/github/ckan/ckan/badge.svg?branch=master)](https://coveralls.io/github/ckan/ckan?branch=master)
+[![Chat on Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://app.gitter.im/#/room/#Bg_Rehberi:gitter.im)
+
+
+
+
+### Amaç
+* Kamu kurumlarında kullanılabilecek açık kaynaklı projelerin yaygınlaştırılması amacı ile özellikle uzman ve kullanıcılar tarafından  kategorilerine göre açık kaynak uygulamaların listesinin oluşturulması 
+
+### Proje  Aşamaları:
+- Öncelik
+1. Kategorilerin ve Listenin oluşturulması
+1. Uyuglaması Mümkün olanlar için  uygulama örnekleri geliştirmek.
+4. Listeyi sürekli güncel tutumak ve yenilemek
+---
+
+
+
+
+
 # Kamu Kurumları için Açık Kaynak Projeler
 
 
