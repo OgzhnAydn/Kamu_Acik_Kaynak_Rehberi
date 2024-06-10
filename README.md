@@ -19,66 +19,6 @@
 
 # Kamu Kurumları için Açık Kaynak Projeler
 
-### Sunucu Sistemleri
-| Üst Kategori                  | Alt Kategori                              |
-|-------------------------------|-------------------------------------------|
-| Sunucu Sistemleri            | İşletim Sistemi                           |
-|                               | Veri Tabanı Yönetim Sistemi              |
-|                               | Dizin Yönetimi ve Kullanıcı Cihaz Yönetimi Sistemleri |
-|                               | E-Posta Sistemi                          |
-|                               | Alan Adı Sunucu Sistemi (DNS)            |
-|                               | Dinamik Makine Yapılandırma Protokolü (DHCP) |
-|                               | Ağ İlkesi Sunucusu (NPS, RADIUS)         |
-|                               | Web ve Uygulama Sunucusu                 |
-|                               | Dosya Sunucusu                           |
-|                               | Video Konferans Sistemi                   |
-|                               | Diğer                                     |
-
-### Sanallaştırma Ortamları
-| Üst Kategori                  | Alt Kategori                              |
-|-------------------------------|-------------------------------------------|
-| Sanallaştırma Ortamları     | Sunucu Sanallaştırma                     |
-|                               | Konteyner Teknolojileri                  |
-|                               | Depolama Alanı Sanallaştırma             |
-|                               | Ağ Sanallaştırma                         |
-|                               | Masaüstü Sanallaştırma ve Uygulama Sanallaştırma |
-|                               | Diğer                                     |
-
-### Siber Güvenlik Yazılımları
-| Üst Kategori                  | Alt Kategori                              |
-|-------------------------------|-------------------------------------------|
-| Siber Güvenlik Yazılımları  | Güvenlik Duvarı                          |
-|                               | Web Uygulama Güvenlik Duvarı (WAF)       |
-|                               | Saldırı Tespit / Önleme Sistemi (IDS / IPS) |
-|                               | Güvenlik Bilgileri ve Olay Yönetimi (SIEM) |
-|                               | Ağ Erişimi Kontrol Sistemi (NAC)         |
-|                               | E-Posta Güvenliği                        |
-|                               | Sanal Özel Ağ Sistemi (VPN)              |
-|                               | Ağ ve Sunucu Sistemleri İzleme Sistemi   |
-|                               | Anti-virüs                               |
-|                               | Güvenlik Zafiyet Yönetimi                |
-|                               | Diğer                                     |
-
-### Son Kullanıcı Uygulamaları
-| Üst Kategori                  | Alt Kategori                              |
-|-------------------------------|-------------------------------------------|
-| Son Kullanıcı Uygulamaları  | İşletim Sistemi                          |
-|                               | Kurumsal Uygulamalar                     |
-|                               | Ofis Uygulamaları                        |
-|                               | Multimedya Uygulamaları                  |
-|                               | Mesleki Uygulamalar                      |
-|                               | Web Uygulama Yazılımları                 |
-|                               | Diğer                                     |
-
-### Diğer
-| Üst Kategori                  | Alt Kategori                              |
-|-------------------------------|-------------------------------------------|
-| Diğer                         | Diğer                                     |
-
-
-
-
-
 ## Sunucu Sistemleri
 
 | Proje            | Açıklama                                      | Kullanım Alanları                                  | Puanlama   | Kaynak     |
