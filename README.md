@@ -1,5 +1,64 @@
 # Kamu Kurumları için Açık Kaynak Projeler
 
+
+# Kamu için Açık Kaynak Alternatifleri
+
+## Sunucu Sistemleri
+
+### İşletim Sistemi
+- **Linux (Ubuntu, CentOS, Debian)**
+  - Açıklama: Linux, güvenli, esnek ve özelleştirilebilir bir açık kaynak işletim sistemidir. Sunucular için idealdir.
+  - Kullanım Alanları: Sunucu işletim sistemi olarak geniş bir kullanım yelpazesine sahiptir.
+
+### Veri Tabanı Yönetim Sistemi
+- **PostgreSQL**
+  - Açıklama: PostgreSQL, güçlü, açık kaynaklı bir ilişkisel veritabanı yönetim sistemidir. Uzun bir geçmişe sahiptir ve geniş bir kullanıcı topluluğuna sahiptir.
+  - Kullanım Alanları: Kurumsal uygulamalar, web tabanlı uygulamalar, veri depolama ve analizi.
+
+### E-Posta Sistemi
+- **Zimbra**
+  - Açıklama: Zimbra, e-posta, takvim ve işbirliği için açık kaynaklı bir platformdur. Genişletilebilir ve kullanıcı dostudur.
+  - Kullanım Alanları: Kurumsal e-posta çözümleri, ekip çalışması ve iletişim.
+
+### Alan Adı Sunucu Sistemi (DNS)
+- **BIND**
+  - Açıklama: BIND, internetin en yaygın DNS sunucusu yazılımıdır. Güvenilir ve ölçeklenebilirdir.
+  - Kullanım Alanları: Alan adı çözümlemesi, DNS hizmetleri.
+
+### Dinamik Makine Yapılandırma Protokolü (DHCP)
+- **ISC DHCP**
+  - Açıklama: ISC DHCP, dinamik IP adresi atama ve yapılandırma için kullanılan bir DHCP sunucu yazılımıdır.
+  - Kullanım Alanları: Ağ yapılandırması, IP adres yönetimi.
+
+### Ağ İlkesi Sunucusu (NPS, RADIUS)
+- **FreeRADIUS**
+  - Açıklama: FreeRADIUS, RADIUS protokolüne dayalı açık kaynaklı bir ağ erişim denetim (NAC) sunucusudur.
+  - Kullanım Alanları: Ağ erişim denetimi, kablosuz ağ güvenliği.
+
+### Web ve Uygulama Sunucusu
+- **Apache HTTP Server**
+  - Açıklama: Apache HTTP Server, dünyanın en popüler web sunucusudur. Esnek, güvenilir ve genişletilebilir.
+  - Kullanım Alanları: Web siteleri, web uygulamaları, sunucu yanı yazılımlar.
+
+### Dosya Sunucusu
+- **Samba**
+  - Açıklama: Samba, SMB/CIFS protokolleri üzerinden dosya ve yazıcı paylaşımı sağlayan açık kaynaklı bir yazılımdır.
+  - Kullanım Alanları: Dosya ve yazıcı paylaşımı, ağ dosya depolama çözümleri.
+
+### Video Konferans Sistemi
+- **Jitsi**
+  - Açıklama: Jitsi, güvenli ve ölçeklenebilir video konferans çözümüdür. WebRTC tabanlı ve kolay entegre edilebilir.
+  - Kullanım Alanları: Uzaktan iletişim, eğitim, işbirliği.
+
+### Diğer
+- **Nextcloud**
+  - Açıklama: Nextcloud, dosya depolama, paylaşım ve işbirliği platformudur. Kullanıcıların verilerini güvenli bir şekilde saklamasını ve paylaşmasını sağlar.
+  - Kullanım Alanları: Bulut depolama, işbirliği, dosya senkronizasyonu.
+
+## Sanallaştırma Ortamları
+
+
+
 ## Yönetim ve İş Süreçleri
 
 ### [OpenProject](https://github.com/opf/openproject)
