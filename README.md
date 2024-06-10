@@ -58,45 +58,6 @@
 
 ## 5. Diğer
 
-# İçerik
-
-## İşletim Sistemi
-## Veri Tabanı Yönetim Sistemi
-## Dizin Yönetimi ve Kullanıcı Cihaz Yönetimi Sistemleri
-## E-Posta Sistemi
-## Alan Adı Sunucu Sistemi (DNS)
-## Dinamik Makine Yapılandırma Protokolü (DHCP)
-## Ağ İlkesi Sunucusu (NPS, RADIUS)
-## Web ve Uygulama Sunucusu
-## Dosya Sunucusu
-## Video Konferans Sistemi
-## Diğer
-## Sunucu Sanallaştırma
-## Konteyner Teknolojileri
-## Depolama Alanı Sanallaştırma
-## Ağ Sanallaştırma
-## Masaüstü Sanallaştırma ve Uygulama Sanallaştırma
-## Diğer
-## Güvenlik Duvarı
-## Web Uygulama Güvenlik Duvarı (WAF)
-## Saldırı Tespit / Önleme Sistemi (IDS / IPS)
-## Güvenlik Bilgileri ve Olay Yönetimi (SIEM)
-## Ağ Erişimi Kontrol Sistemi (NAC)
-## E-Posta Güvenliği
-## Sanal Özel Ağ Sistemi (VPN)
-## Ağ ve Sunucu Sistemleri İzleme Sistemi
-## Anti-virüs
-## Güvenlik Zafiyet Yönetimi
-## Diğer
-## İşletim Sistemi
-## Kurumsal Uygulamalar
-## Ofis Uygulamaları
-## Multimedya Uygulamaları
-## Mesleki Uygulamalar
-## Web Uygulama Yazılımları
-## Diğer
-
-
 
 
 
