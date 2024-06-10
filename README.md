@@ -34,12 +34,6 @@
 | Jitsi            | Güvenli ve ölçeklenebilir video konferans çözümü | Uzaktan iletişim, eğitim, işbirliği                | ⭐⭐⭐⭐ | [GitHub](https://github.com/jitsi) |
 | Nextcloud        | Dosya depolama, paylaşım ve işbirliği platformu | Bulut depolama, işbirliği, dosya senkronizasyonu   | ⭐⭐⭐⭐ | [GitHub](https://github.com/nextcloud) |
 
-## Sanallaştırma Ortamları
-
-| Proje / Yazılım  | Açıklama                                      | Kullanım Alanları                                  | Puanlama   | Kaynak     |
-|------------------|-----------------------------------------------|----------------------------------------------------|------------|------------|
-|       |                         |          |  |  |
-|          |              |           | |  |
 
 
 ## Yönetim ve İş Süreçleri
@@ -68,6 +62,14 @@
 | Proje / Yazılım  | Açıklama                                      | Kullanım Alanları                                  | Puanlama   | Kaynak     |
 |------------------|-----------------------------------------------|----------------------------------------------------|------------|------------|
 | FixMyStreet     | Vatandaşların altyapı sorunlarını bildirmesini sağlayan platform | Yol, kaldırım, park sorunları | ⭐⭐⭐⭐⭐ | [Web Sitesi](https://www.fixmystreet.com/) |
+
+## Sanallaştırma Ortamları
+
+| Proje / Yazılım  | Açıklama                                      | Kullanım Alanları                                  | Puanlama   | Kaynak     |
+|------------------|-----------------------------------------------|----------------------------------------------------|------------|------------|
+|       |                         |          |  |  |
+|          |              |           | |  |
+
 
 
 
