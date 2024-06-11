@@ -284,6 +284,18 @@
 | Vim              | Eski UNIX düzenleyicisi Vi'nin büyük ölçüde geliştirilmiş bir sürümü | Klavye odaklı, genişletilebilirlik, hızlı metin işleme | | [Web Sitesi](http://www.vim.org/sponsor/index.php) |
 | Visual Studio Code | Modern web ve bulut uygulamaları oluşturmak ve hata ayıklamak için yeniden tanımlanan ve optimize edilmiş bir kod düzenleyici | Modern web uygulamaları, bulut uygulamaları, hata ayıklama | | [Web Sitesi](https://code.visualstudio.com/) |
 
+## Document
+
+| Proje / Yazılım | Açıklama                                           | Kullanım Alanları                    | Puanlama | Kaynak                                    |
+|-----------------|----------------------------------------------------|--------------------------------------|----------|------------------------------------------|
+| Etherpad        | Web tabanlı işbirlikçi gerçek zamanlı metin düzenleyici | İşbirlikçi belge düzenleme         |          | [Web Sitesi](http://etherpad.org/)        |
+| Evince          | Birden fazla belge formatı için belge görüntüleyici | Belge görüntüleme                   |          | [Web Sitesi](https://wiki.gnome.org/Apps/Evince) |
+| LibreOffice     | Ofis paketi                                       | Ofis uygulamaları                   |          | [Web Sitesi](https://www.libreoffice.org/) |
+| Okular          | Evrensel belge görüntüleyici                      | Belge görüntüleme                   |          | [Web Sitesi](https://okular.kde.org/)      |
+| Scribus         | Sayfa düzenleme programı                          | Sayfa düzenleme                     |          | [Web Sitesi](https://www.scribus.net)     |
+| Sumatra PDF     | Ücretsiz ve açık kaynaklı belge görüntüleyici     | Belge görüntüleme                   |          | [Web Sitesi](https://www.sumatrapdfreader.org/free-pdf-reader.html) |
+
+
 
 ## Grafik
 
